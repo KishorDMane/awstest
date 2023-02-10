@@ -1,0 +1,23 @@
+{
+  "name": "awstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KishorDMane/awstest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KishorDMane/awstest/issues"
+  },
+  "homepage": "https://github.com/KishorDMane/awstest#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
